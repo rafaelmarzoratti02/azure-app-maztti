@@ -5,6 +5,13 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>azure_app_maztti</RootNamespace>
+    <ApplicationInsightsResourceId>/subscriptions/cb17e67c-b912-4e6b-8ac3-fe96fa9aca5a/resourceGroups/az-group-rg/providers/microsoft.insights/components/az-webapp-maztti</ApplicationInsightsResourceId>
+    <UserSecretsId>1ff561ca-66d0-4ff6-9d31-2ac2cb8b1211</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Identity" Version="1.13.2" />
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.23.0" />
+  </ItemGroup>
 
 </Project>
