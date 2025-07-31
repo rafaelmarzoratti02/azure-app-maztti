@@ -132,3 +132,4 @@ C:\Projects\azure-app-maztti\obj\Debug\net9.0\refint\azure-app-maztti.dll
 C:\Projects\azure-app-maztti\obj\Debug\net9.0\azure-app-maztti.pdb
 C:\Projects\azure-app-maztti\obj\Debug\net9.0\azure-app-maztti.genruntimeconfig.cache
 C:\Projects\azure-app-maztti\obj\Debug\net9.0\ref\azure-app-maztti.dll
+C:\Projects\azure-app-maztti\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
