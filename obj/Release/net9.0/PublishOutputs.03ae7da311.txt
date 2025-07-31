@@ -1,0 +1,7 @@
+C:\Projects\azure-app-maztti\publish\azure-app-maztti.exe
+C:\Projects\azure-app-maztti\publish\appsettings.Development.json
+C:\Projects\azure-app-maztti\publish\appsettings.json
+C:\Projects\azure-app-maztti\publish\azure-app-maztti.dll
+C:\Projects\azure-app-maztti\publish\azure-app-maztti.deps.json
+C:\Projects\azure-app-maztti\publish\azure-app-maztti.runtimeconfig.json
+C:\Projects\azure-app-maztti\publish\azure-app-maztti.pdb
