@@ -3,16 +3,27 @@
   "WorkspaceRootPath": "C:\\Projects\\azure-app-maztti\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|c:\\projects\\azure-app-maztti\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|solutionrelative:pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|c:\\projects\\azure-app-maztti\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|c:\\projects\\azure-app-maztti\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|c:\\projects\\azure-app-maztti\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|c:\\projects\\azure-app-maztti\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|c:\\projects\\azure-app-maztti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Devztti\\AppData\\Roaming\\Microsoft\\UserSecrets\\1ff561ca-66d0-4ff6-9d31-2ac2cb8b1211\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|c:\\projects\\azure-app-maztti\\data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|solutionrelative:data\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|c:\\projects\\azure-app-maztti\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DDB5EE9-70AA-D9E5-46B5-B9CD8C274F74}|azure-app-maztti.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,39 +46,80 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Privacy.cshtml.cs",
-              "DocumentMoniker": "C:\\Projects\\azure-app-maztti\\Pages\\Privacy.cshtml.cs",
-              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml.cs",
-              "ToolTip": "C:\\Projects\\azure-app-maztti\\Pages\\Privacy.cshtml.cs",
-              "RelativeToolTip": "Pages\\Privacy.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\azure-app-maztti\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\azure-app-maztti\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-05T20:00:53.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\azure-app-maztti\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Projects\\azure-app-maztti\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T01:40:14.729Z",
+              "WhenOpened": "2025-08-05T20:00:41.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Devztti\\AppData\\Roaming\\Microsoft\\UserSecrets\\1ff561ca-66d0-4ff6-9d31-2ac2cb8b1211\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\Users\\Devztti\\AppData\\Roaming\\Microsoft\\UserSecrets\\1ff561ca-66d0-4ff6-9d31-2ac2cb8b1211\\secrets.json",
+              "ToolTip": "C:\\Users\\Devztti\\AppData\\Roaming\\Microsoft\\UserSecrets\\1ff561ca-66d0-4ff6-9d31-2ac2cb8b1211\\secrets.json",
+              "RelativeToolTip": "..\\..\\Users\\Devztti\\AppData\\Roaming\\Microsoft\\UserSecrets\\1ff561ca-66d0-4ff6-9d31-2ac2cb8b1211\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T19:50:52.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Projects\\azure-app-maztti\\Data\\Person.cs",
+              "RelativeDocumentMoniker": "Data\\Person.cs",
+              "ToolTip": "C:\\Projects\\azure-app-maztti\\Data\\Person.cs",
+              "RelativeToolTip": "Data\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:41:09.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\azure-app-maztti\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Projects\\azure-app-maztti\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:40:08.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\azure-app-maztti\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\azure-app-maztti\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T01:39:58.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Projects\\azure-app-maztti\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Projects\\azure-app-maztti\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "Pages\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-31T01:39:56.304Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\azure-app-maztti\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\azure-app-maztti\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:35:54.836Z",
+              "EditorCaption": ""
             }
           ]
         }
